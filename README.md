@@ -28,3 +28,4 @@ The nf-core/metaamplicon pipeline comes with documentation about the pipeline, f
 
 ### Credits
 nf-core/metaamplicon was originally written by Yu Sun.
+[百度](http://baidu.com)
